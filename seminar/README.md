@@ -2,6 +2,7 @@
 
 Author: Victor Andersen  
 Course: Econometric models in financial applications
+
 University of Copenhagen, Spring 2026
 
 This repository contains the code for the seminar paper.
